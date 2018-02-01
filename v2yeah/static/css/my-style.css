@@ -1,0 +1,16 @@
+span.highlighted {
+    color: red;
+}
+.askquestion{
+    padding-bottom: 80px;
+}
+.pull-right{
+    float: right !important;
+}
+.comments {
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+.search{padding:0;margin:12px 0}
