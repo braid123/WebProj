@@ -3,5 +3,5 @@ from .views import *
 
 
 urlpatterns = [
-    url(r'^$', index, name='index'),
+    # url(r'^blog/', index, name='index'),
 ]
